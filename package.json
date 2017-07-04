@@ -1,0 +1,28 @@
+{
+  "name": "openhab_widgets",
+  "version": "1.0.0",
+  "description": "custom widgets for openhab",
+  "main": "joewidget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crimsonsunset/openhab_asst.git"
+  },
+  "keywords": [
+    "openhab",
+    "widgets",
+    "test"
+  ],
+  "author": "Joe Sangiorgio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crimsonsunset/openhab_asst/issues"
+  },
+  "homepage": "https://github.com/crimsonsunset/openhab_asst#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
