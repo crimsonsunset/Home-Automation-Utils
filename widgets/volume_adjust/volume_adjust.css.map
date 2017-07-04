@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAI;EACA,gBAAgB,EAHP,IAAI;;AAMjB,MAAM;EAEJ,gBAAgB,EARL,IAAI;EASf,UAAU,EAAE,MAAM;;AAGpB,SAAS;EACP,aAAa,EAAE,IAAI",
+"sources": ["volume_adjust.scss"],
+"names": [],
+"file": "volume_adjust.css"
+}

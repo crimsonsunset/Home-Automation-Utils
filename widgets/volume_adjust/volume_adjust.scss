@@ -1,0 +1,15 @@
+$panelColor: #89a;
+
+body{
+    background-color:$panelColor ;
+}
+
+.panel{
+    //border: 1px solid blue;
+  background-color:$panelColor ;
+  text-align: center;
+}
+
+.activity{
+  margin-bottom: 22px;
+}

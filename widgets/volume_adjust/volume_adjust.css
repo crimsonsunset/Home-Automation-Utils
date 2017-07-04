@@ -1,0 +1,15 @@
+body {
+    background-color: #89a;
+}
+
+.panel {
+    background-color: #89a;
+    text-align: center;
+}
+
+#range {
+    font-size: 24px;
+    color: black;
+}
+
+/*# sourceMappingURL=volume_adjust.css.map */
