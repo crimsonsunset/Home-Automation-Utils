@@ -1,0 +1,2 @@
+set theURL to "http://192.168.1.247:8080/rest/things"
+do shell script "curl -X POST http://192.168.1.247:8080/rest/items/fan_light_colorz -H 'cache-control: no-cache' -H 'Content-Type: text/plain' -d ON"
